@@ -11,6 +11,9 @@ body {
     padding-top: 0px;
 }
 
+/* Navbar */
+
+
 /* Hero */
 .hero-image {
     position: relative;
@@ -29,7 +32,6 @@ body {
     font-size: 50px;
     color: black;
     text-align: right;
-    padding-top: 20px;
 }
 
 .jumbotron-fluid p {
