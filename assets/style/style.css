@@ -1,14 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     font-family: 'Lato', sans-serif;
     height: 100%;
 }
 
-.hero-image {
-    width: 100%;
-}
-
 .main-container {
     padding-top: 0px;
+}
+
+/* Hero */
+.hero-image {
+    width: 100%;
 }
 
 .jumbotron-fluid {
@@ -31,6 +36,24 @@ body {
     font-weight: 300;
     color: #f3f3f3;
     text-align: right;
+}
+
+/* Portfolio Gallery */
+.portfolio {
+    margin: 60px 0 15px 0;
+}
+p {
+    font-weight: 500;
+    font-size: 17px;
+}
+
+.gallery h4 {
+    padding: 80px 60px;
+    text-anchor: middle;
+}
+
+img {
+    margin-bottom: 60px;
 }
 
 /* footer */
