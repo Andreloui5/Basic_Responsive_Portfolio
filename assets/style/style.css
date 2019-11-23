@@ -13,36 +13,40 @@ body {
 
 /* Hero */
 .hero-image {
-    width: 100%;
+    position: relative;
 }
 
 .jumbotron-fluid {
     width: 100%;   
-    padding: 100px 60px;
+    padding: 0 60px 200px 60px;
     margin-bottom: 30px;
-    background-image: url('../images/My\ Post.png');
+    background-image: url('../images/Paint.png');
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .jumbotron-fluid h1 {
     font-size: 50px;
-    color: #f3f3f3;
+    color: black;
     text-align: right;
+    padding-top: 20px;
 }
 
 .jumbotron-fluid p {
     font-size: 25px;
     font-weight: 300;
-    color: #f3f3f3;
+    color: black;
     text-align: right;
+    margin: 0;
+    padding: 0;
 }
 
 /* Portfolio Gallery */
 .portfolio {
     margin: 60px 0 15px 0;
 }
-p {
+
+.portfolio p {
     font-weight: 500;
     font-size: 17px;
 }
