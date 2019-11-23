@@ -1,4 +1,33 @@
-
 body {
     font-family: 'Lato', sans-serif;
+}
+
+.hero-image {
+    width: 100%;
+}
+
+.main-container {
+    padding-top: 0px;
+}
+
+.hero1 {
+    width: 100%;
+    padding: 100px 60px;
+    margin: 0;
+    background-image: url('../images/My\ Post.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.hero1 h1 {
+    font-size: 50px;
+    color: #f3f3f3;
+    text-align: right;
+}
+
+.hero1 p {
+    font-size: 25px;
+    font-weight: 300;
+    color: #f3f3f3;
+    text-align: right;
 }
