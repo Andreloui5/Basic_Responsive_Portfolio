@@ -31,14 +31,15 @@ body {
 .jumbotron-fluid h1 {
     font-size: 50px;
     color: black;
-    text-align: right;
+    text-align: center;
+    margin-top: 90px;
 }
 
 .jumbotron-fluid p {
     font-size: 25px;
     font-weight: 300;
     color: black;
-    text-align: right;
+    text-align: center;
     margin: 0;
     padding: 0;
 }
