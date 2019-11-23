@@ -11,9 +11,9 @@ body {
 }
 
 .jumbotron-fluid {
-    width: 100%;
+    width: 100%;   
     padding: 100px 60px;
-    margin: 0;
+    margin-bottom: 30px;
     background-image: url('../images/My\ Post.png');
     background-size: cover;
     background-repeat: no-repeat;
