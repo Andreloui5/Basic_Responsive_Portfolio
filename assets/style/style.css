@@ -63,6 +63,20 @@ img {
     margin-bottom: 60px;
 }
 
+/* About Me */
+.aboutMe {
+    margin: 60px 0 15px 0;
+}
+
+.aboutMe p {
+    font-weight: 500;
+    font-size: 17px;
+}
+
+img {
+    margin-bottom: 60px;
+}
+
 /* footer */
 .footer {
     position: sticky;
