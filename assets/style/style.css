@@ -21,7 +21,7 @@ body {
 
 .jumbotron-fluid {
     width: 100%;   
-    padding: 0 60px 200px 60px;
+    padding: 0 60px 80px 60px;
     margin-bottom: 30px;
     background-image: url('../images/Paint.png');
     background-size: cover;
@@ -30,17 +30,17 @@ body {
 
 .jumbotron-fluid h1 {
     font-size: 50px;
-    color: black;
+    color: #1A1A1A;
     text-align: center;
     margin-top: 90px;
 }
 
 .jumbotron-fluid p {
     font-size: 25px;
-    font-weight: 300;
-    color: black;
+    font-weight: 400;
+    color: #1a1a1a;
     text-align: center;
-    margin: 0;
+    margin-top: 10px;
     padding: 0;
 }
 

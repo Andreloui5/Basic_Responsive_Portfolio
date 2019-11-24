@@ -20,55 +20,67 @@
 </head>
 
 <body>
-  <!-- Hero image -->
+  <!-- Navbar and Hero image -->
   <section class="main-container">
     <article class="jumbotron-fluid bg-gradient-dark">
       <!-- Navbar -->
       <nav class="navbar navbar-expand-lg navbar-light bg-transparent">
-        <!-- Section text  -->
-        <div class="collapse navbar-collapse" id="navbarText">
-          <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
-              <a class="nav-link" href="#">About <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Portfolio</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Contact</a>
-            </li>
-          </ul>
+          <a class="navbar-brand" href="#">Craig Gant</a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+              <li class="nav-item active">
+                <a class="nav-link" href="#">About<span class="sr-only">(current)</span></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Portfolio</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Contact</a>
+              </li>
+            </ul>
+          </div>
+        </nav>
         <!-- End section Text -->
         </div>
       <!-- End Navbar -->
       </nav>
 
+      <!-- Container-fluid -->
       <div class="container-fluid">
-          <div class="row hero-image">
-            <!-- Name -->
-            <div class="col-12">
-                <h1>Craig Gant</h1>
-                <!-- Carousel -->
-                <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
-                    <div class="carousel-inner">
-                      <div class="carousel-item active">
-                        <p class="d-block w-100">Web Developer</p>
-                      </div>
-                      <div class="carousel-item">
-                        <p class="d-block w-100">Copywriter</p>
-                      </div>
-                      <div class="carousel-item">
-                          <p class="d-block w-100">Editor</p>
-                      </div>
-                    </div>
-                  <!-- End Carousel -->
-                  </div>                
-            <!-- End Name -->    
-            </div>     
-          </div>
+        <!-- Hero image -->
+        <div class="row hero-image">
+          <!-- Name -->
+          <div class="col-12">
+            <h1>Craig Gant</h1>
+            <!-- Carousel -->
+            <div id="Carousel1" class="carousel slide carousel-fade" data-ride="carousel">
+              <div class="carousel-inner">
+                <!-- Carousel item 1 -->
+                <div class="carousel-item active">
+                  <p class="d-block w-100">Web Developer</p>
+                </div>
+                <!-- Carousel item 2 -->
+                <div class="carousel-item">
+                  <p class="d-block w-100">Copywriter</p>
+                </div>
+                <!-- Carousel item 3 -->
+                <div class="carousel-item">
+                  <p class="d-block w-100">Editor</p>
+                </div>
+              </div>
+            <!-- End Carousel -->
+            </div>       
+          <!-- End Name -->    
+          </div>     
+        <!-- End Hero Image -->
         </div>
+      <!-- End container-fluid -->
+      </div>
     </article>
-  <!-- End Hero Image -->
+  <!-- End Navbar and Hero Image -->
   </section>
 
 
