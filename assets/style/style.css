@@ -43,6 +43,12 @@ body {
     padding: 0;
 }
 
+/* Carousel */
+.carousel-inner .carousel-item {
+  transition-property: opacity;
+  transition-duration: 2.4s;
+  transition-timing-function:linear;
+}
 
 /* Portfolio Gallery */
 #tagline {
