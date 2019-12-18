@@ -10,7 +10,7 @@ I used bootstrap to create a basic, responsive website— while still maintainin
 
 ## My Portfolio
 
-This site features three sections: [About Me](https://andreloui5.github.io/Basic_Responsive_Portfolio/#aboutMe), space for my [Portfolio](https://andreloui5.github.io/Basic_Responsive_Portfolio/#myPortfolio), and links for others to [Contact Me](https://andreloui5.github.io/Basic_Responsive_Portfolio/#myContact) with any questions or concerns they might have.
+This site features three sections: an [About Me](https://andreloui5.github.io/Basic_Responsive_Portfolio/#aboutMe), space for my [Portfolio](https://andreloui5.github.io/Basic_Responsive_Portfolio/#myPortfolio), and links for others to [Contact Me](https://andreloui5.github.io/Basic_Responsive_Portfolio/#myContact) with any questions or concerns they might have.
 
 ## Credits
 
